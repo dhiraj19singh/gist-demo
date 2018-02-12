@@ -2,7 +2,7 @@
     "name": "Gist",
     "version": "1.0.0",
     "description": "This is a web application to get the list of public gist",
-    "authors": "Pritam Guha",
+    "authors": "Dhiraj Singh",
     "dependencies":
     {
         "angular": "1.4.12",
